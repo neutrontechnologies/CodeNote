@@ -1,6 +1,6 @@
 # CodeNote 
 
-Take notes, safely store secrets and share them with your coworkers right inside Visual Studio Code
+Take notes, safely store secrets and share them with your coworkers right inside Visual Studio Code.
 
 ## Features
 
