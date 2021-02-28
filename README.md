@@ -20,7 +20,7 @@ TODO: add Requirements
 
 ## Extension Settings
 
-TODO: add extention settings options
+TODO: add extension settings options
 <!--Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
 For example:
