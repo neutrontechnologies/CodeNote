@@ -10,13 +10,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:codenote.NeutronTek"
+    "onCommand:codenote.helloWorld"
   ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "codenote.NeutronTek",
+        "command": "codenote.helloWorld",
         "title": "Hello World"
       }
     ]
